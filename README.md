@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
- 💻 Habilidades: <strong>Vue JS, NodeJs, PHP, Laravel, RestAPI</strong>
+ 💻 Habilidades: <strong>Vue JS, NodeJs, PHP, Laravel</strong>
 </p>
 
 <p align="left">

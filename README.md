@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- 👨 Apaixonado por tecnologia e programação de modo geral, já tive contato com diversas linguagens e sistemas, me especializando em desenvolvimento <strong>Front-End</strong>.
+ 🧠 Apaixonado por tecnologia e programação de modo geral, já tive contato com diversas linguagens e sistemas, me especializando em desenvolvimento <strong>Front-End</strong>.
 </p>
 
 <p align="left">

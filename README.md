@@ -1,6 +1,7 @@
 ## 🧑 Engenheiro de Software
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
  🧠 Apaixonado por tecnologia e programação de modo geral, já tive contato com diversas linguagens e sistemas, me especializando em desenvolvimento <strong>Front-End</strong>.
@@ -22,6 +23,7 @@
   <strong>ReactJS, NextJS, JavaScript, ES6+, TypeScript, HTML, CSS, Sass.</strong>
 </p> -->
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## 💻 Outras
 
@@ -29,7 +31,7 @@
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 ## 💼 Ferramentas:
 

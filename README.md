@@ -2,12 +2,12 @@
 
 
 <p align="left"> 
-🔭 I’m currently working on React + TypeScript microfrontends for banking systems.
-👯 I’m looking to collaborate on scalable front-end architectures and AI-driven applications.
-🤝 I’m looking for help with distributed systems, P2P streaming and LLM integrations.
-🌱 I’m currently learning system design, decentralized architectures and predictive modeling.
-💬 Ask me about React, TypeScript, microfrontends, clean architecture and automation.
-⚡ Fun fact: I build side projects faster than I can finish them.
+🔭 I’m currently working on React + TypeScript microfrontends for banking systems.<br/>
+👯 I’m looking to collaborate on scalable front-end architectures and AI-driven applications.<br/>
+🤝 I’m looking for help with distributed systems, P2P streaming and LLM integrations.<br/>
+🌱 I’m currently learning system design, decentralized architectures and predictive modeling.<br/>
+💬 Ask me about React, TypeScript, microfrontends, clean architecture and automation.<br/>
+⚡ Fun fact: I build side projects faster than I can finish them.<br/>
 </p>
 
 ## 🧑‍💻 Habilidades

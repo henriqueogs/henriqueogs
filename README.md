@@ -2,7 +2,12 @@
 
 
 <p align="left"> 
- 🧠 Apaixonado por tecnologia e programação de modo geral, já tive contato com diversas linguagens e sistemas, me especializando em desenvolvimento <strong>Front-End</strong>.
+🔭 I’m currently working on React + TypeScript microfrontends for banking systems.
+👯 I’m looking to collaborate on scalable front-end architectures and AI-driven applications.
+🤝 I’m looking for help with distributed systems, P2P streaming and LLM integrations.
+🌱 I’m currently learning system design, decentralized architectures and predictive modeling.
+💬 Ask me about React, TypeScript, microfrontends, clean architecture and automation.
+⚡ Fun fact: I build side projects faster than I can finish them.
 </p>
 
 ## 🧑‍💻 Habilidades
@@ -36,7 +41,7 @@
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 <p align="left">
-  💬 Vamos realizar um projeto (ou bater papo)? Entre em contato: ⤵️
+  💬 Let's work on a project (or have a chat)? Get in touch:
 </p>
 
 

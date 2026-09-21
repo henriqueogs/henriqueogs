@@ -15,10 +15,9 @@
 | Project | What it is |
 |---|---|
 | [monitor_ritapolis](https://github.com/henriqueogs/monitor_ritapolis) | Civic transparency platform for a Brazilian municipality — scraping, deterministic data parsing, AI summarization pipeline, national procurement API integration, admin dashboard with auth. Node.js + Next.js. |
-| [Gankr_Front](https://github.com/henriqueogs/Gankr_Front) | React + TypeScript frontend. |
-| [celere_landing_page](https://github.com/henriqueogs/celere_landing_page) | Landing page for a dev team, React + TypeScript. |
+| [Gankr_Front](https://github.com/henriqueogs/Gankr_Front) | Platform for gamers to organize squads and run disputes/competitions with friends. React + TypeScript. |
 | [RitBet](https://github.com/henriqueogs/RitBet) | Web3 demo: Solidity smart contract + React frontend + MetaMask wallet integration on Ethereum/Polygon. |
-| [thirtypieces.me](https://github.com/henriqueogs/thirtypieces.me) | Personal project, JavaScript. |
+| [thirtypieces.me](https://github.com/henriqueogs/thirtypieces.me) | Scrollytelling art piece reinterpreting a famous historical figure — design and narrative craft over engineering. Vanilla JS + GSAP. |
 
 ## 🧑‍💻 Skills
 

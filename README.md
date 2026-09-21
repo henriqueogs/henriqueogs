@@ -16,7 +16,7 @@
 |---|---|
 | [monitor_ritapolis](https://github.com/henriqueogs/monitor_ritapolis) | Civic transparency platform for a Brazilian municipality — scraping, deterministic data parsing, AI summarization pipeline, national procurement API integration, admin dashboard with auth. Node.js + Next.js. |
 | [Gankr_Front](https://github.com/henriqueogs/Gankr_Front) | Platform for gamers to organize squads and run disputes/competitions with friends. React + TypeScript. |
-| [RitBet](https://github.com/henriqueogs/RitBet) | Web3 demo: Solidity smart contract + React frontend + MetaMask wallet integration on Ethereum/Polygon. |
+| [cookie-poll-dapp](https://github.com/henriqueogs/cookie-poll-dapp) | Web3 demo: Solidity contract (tested) + Next.js frontend + MetaMask wallet auth. Educational — no gambling, no token transfers. |
 | [thirtypieces.me](https://github.com/henriqueogs/thirtypieces.me) | Scrollytelling art piece reinterpreting a famous historical figure — design and narrative craft over engineering. Vanilla JS + GSAP. |
 
 ## 🧑‍💻 Skills
